@@ -29,6 +29,6 @@ Below are a few projects demonstrating my analytical skills:
 
 ---
 
-### Where to Find Me
+### Lets Connect!
 * **LinkedIn:** [Mark McKenzie](https://www.linkedin.com/in/mark-mckenzie-aa1969160/?skipRedirect=true)
 * **Email:** [mckenziemark04@gmail.com](mailto:mckenziemark04@gmail.com)
