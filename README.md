@@ -17,7 +17,7 @@ I am a data driven professional leveraging my background in operations and logis
 Below are a few projects demonstrating my analytical skills:
 
 #### 1. APEX Fleet Health & Routing Operations
->m Designed an end-to-end data pipeline to resolve operational bottlenecks by cleaning 10,000+ records of messy logistics data. Establishing an SQL view to flag real world irregularities ( missing maintenance logs, impossible MPG) and modeled the data in Power BI to track fleet health KPIs.
+> Designed an end-to-end data pipeline to resolve operational bottlenecks by cleaning 10,000+ records of messy logistics data. Establishing an SQL view to flag real world irregularities ( missing maintenance logs, impossible MPG) and modeled the data in Power BI to track fleet health KPIs.
 * **Tech Used:** Python, Pandas, PostgreSQL, SQL, DBeaver, Power BI, DAX
 * **Links:** [View Repository & Dashboard Demo](https://github.com/mcken-04/apex-fleet-data-pipeline)
 
