@@ -25,4 +25,10 @@ Below are a few projects demonstrating my analytical skills:
 #### 2. APEX Logistics Network: End-to-End Pipeline & Analytics
 > Engineered a complete ELT data pipeline to analyze historical shipping data, identify delivery bottlenecks, and diagnose a spike in damaged packages. Transformed messy raw data into a clean SQL VIEW to provide an executive reporting dashboard for operations managers.
 * **Tech Used:** Python, Pandas, PostgreSQL, SQL, DBeaver, Power BI, DAX
-* * **Links:** [View Repository & Dashboard](https://github.com/mcken-04/apex-logistics-operations-dashboard)
+* **Links:** [View Repository & Dashboard](https://github.com/mcken-04/apex-logistics-operations-dashboard)
+
+---
+
+### Where to Find Me
+* **LinkedIn:** [Mark McKenzie](https://www.linkedin.com/in/mark-mckenzie-aa1969160/?skipRedirect=true)
+* **Email:** [mckenziemark04@gmail.com](mailto:mckenziemark04@gmail.com)
