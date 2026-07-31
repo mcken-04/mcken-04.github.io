@@ -30,5 +30,5 @@ Below are a few projects demonstrating my analytical skills:
 ---
 
 ### Lets Connect!
-* **LinkedIn:** [Mark McKenzie](https://www.linkedin.com/in/mark-mckenzie-aa1969160/?skipRedirect=true)
+* **LinkedIn:** [Mark McKenzie](linkedin.com/in/mark-mckenzie-aa1969160)
 * **Email:** [mckenziemark04@gmail.com](mailto:mckenziemark04@gmail.com)
