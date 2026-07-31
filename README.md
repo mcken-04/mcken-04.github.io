@@ -1,4 +1,4 @@
-# Hello, I'm Mark McKenzie
+# Welcome, I'm Mark McKenzie
 **Operational Manager transitioning to Data Analyst** 
 
 I am a data driven professional leveraging my background in operations and logistics management to drive business decisions through analytics. I specialize in turning raw data into prosecutable insights to optimize processes, identify trends, and solve complex problems.
